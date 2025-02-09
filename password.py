@@ -9,6 +9,7 @@ def check_password_strength(password):
         - Contains both uppercase and lowercase letters
         - Contains at least one digit (0-9)
         - Contains at least one special character (!, @, #, $, %, etc.)
+        - Does not contain spaces
     """
     errors = []  # List to store validation errors
     strength_score = 0  # Score to determine password strength
