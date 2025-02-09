@@ -1,6 +1,5 @@
 """
-In DevOps, security is a crucial aspect, and ensuring strong passwords is essential. Create a Python script to check the strength of the password. 
-
+Create a Python script to check the strength of the password with password score
 """
 
 def check_password_strength(password):
