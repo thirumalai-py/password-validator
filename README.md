@@ -70,9 +70,14 @@ print(result)
 - Avoid common words and patterns (e.g., "password123")
 - Do not reuse passwords across accounts
 
-## License
-This script is open-source and free to use for any purpose.
+## Output - Error
 
-## Contributions
-Feel free to submit pull requests or suggest improvements!
+![alt text](media/error.png)
+
+## Output - Success
+
+![alt text](media/success.png)
+
+## Author
+Thirumalai Raja - https://github.com/thirumalai-py/
 
